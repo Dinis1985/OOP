@@ -3,8 +3,8 @@ package service;
 import java.util.Collections;
 import java.util.List;
 
-import dto.GroupStream;
-import dto.comparators.GroupStreamComparator;
+import data.GroupStream;
+import data.comparators.GroupStreamComparator;
 import repository.GroupStreamRepository;
 
 public class GroupStreamServiceImpl implements GroupStreamService {

@@ -1,4 +1,4 @@
-package dto;
+package data;
 
 public class Teacher extends User {
     private String department;

@@ -1,6 +1,6 @@
 package db;
 
-import dto.Student;
+import data.Student;
 
 public class StudentTable extends Table<Student> {
     public boolean deleteByFio(String fio) {

@@ -1,8 +1,8 @@
-package dto.comparators;
+package data.comparators;
 
 import java.util.Comparator;
 
-import dto.User;
+import data.User;
 
 public class UserComparator implements Comparator<User> {
 

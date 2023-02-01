@@ -1,6 +1,6 @@
 package controller;
 
-import dto.StudentGroup;
+import data.StudentGroup;
 import service.StudentGroupServiceImpl;
 
 public class StudentGroupController implements InterfaceController<StudentGroup, Integer> {

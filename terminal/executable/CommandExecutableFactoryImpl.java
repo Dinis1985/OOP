@@ -1,8 +1,8 @@
 package terminal.executable;
 
+import data.Student;
 import service.StudentService;
 import terminal.Command;
-import dto.Student;
 
 public class CommandExecutableFactoryImpl implements CommandExecutableFactory {
     private final StudentService studentService;

@@ -1,9 +1,9 @@
-package dto;
+package data;
 
 import java.util.Iterator;
 import java.util.List;
 
-import dto.iterators.StudentGroupIterator;
+import data.iterators.StudentGroupIterator;
 
 public class StudentGroup implements Iterable<Student> {
     private Teacher teacher;

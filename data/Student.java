@@ -1,4 +1,4 @@
-package dto;
+package data;
 
 public class Student extends User implements Comparable<Student> {
     private int groupNumber;

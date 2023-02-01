@@ -1,7 +1,7 @@
 package service;
 
-import dto.Student;
-import dto.User;
+import data.Student;
+import data.User;
 import repository.StudentRepository;
 import util.ReaderFromTxt;
 import util.WriterFromTxt;

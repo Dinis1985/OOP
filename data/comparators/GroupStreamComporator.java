@@ -1,8 +1,8 @@
-package dto.comparators;
+package data.comparators;
 
 import java.util.Comparator;
 
-import dto.GroupStream;
+import data.GroupStream;
 
 public class GroupStreamComparator implements Comparator<GroupStream> {
 

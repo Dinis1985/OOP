@@ -1,6 +1,6 @@
 package terminal.executable;
 
-import dto.Student;
+import data.Student;
 import service.StudentService;
 
 public class DeleteStudentByGroupAndBirthdayExecutable implements CommandExecutable {

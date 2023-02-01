@@ -1,10 +1,10 @@
-package dto.iterators;
+package data.iterators;
 
 import java.util.Iterator;
 import java.util.List;
 
-import dto.Student;
-import dto.StudentGroup;
+import data.Student;
+import data.StudentGroup;
 
 public class StudentGroupIterator implements Iterator<Student> {
     private StudentGroup studentGroup;

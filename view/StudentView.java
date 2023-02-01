@@ -2,7 +2,7 @@ package view;
 
 import java.util.List;
 
-import dto.User;
+import data.User;
 
 public class StudentView extends UserView {
 

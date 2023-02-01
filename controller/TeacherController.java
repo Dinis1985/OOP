@@ -1,6 +1,6 @@
 package controller;
 
-import dto.Teacher;
+import data.Teacher;
 import service.TeacherService;
 
 public class TeacherController implements InterfaceController<Teacher, Integer> {

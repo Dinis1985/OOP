@@ -1,6 +1,6 @@
 package util;
 
-import dto.User;
+import data.User;
 
 public class WriterFromTxt {
     private String path;

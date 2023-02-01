@@ -1,6 +1,6 @@
 package repository;
 
-import dto.StudentGroup;
+import data.StudentGroup;
 
 public class GroupRepository implements Repository<StudentGroup, Integer> {
 

@@ -4,9 +4,9 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import dto.Student;
-import dto.StudentGroup;
-import dto.comparators.UserComparator;
+import data.Student;
+import data.StudentGroup;
+import data.comparators.UserComparator;
 import repository.Repository;
 import util.ReaderFromTxt;
 

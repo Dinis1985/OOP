@@ -1,4 +1,4 @@
-package dto;
+package data;
 
 public abstract class User {
     private String fio;

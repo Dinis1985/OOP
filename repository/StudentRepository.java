@@ -1,7 +1,7 @@
 package repository;
 
+import data.Student;
 import db.StudentTable;
-import dto.Student;
 
 public class StudentRepository implements UserRepository<Student, Integer> {
     private StudentTable studentTable;

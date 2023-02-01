@@ -2,9 +2,9 @@ package util;
 
 import java.util.List;
 
-import dto.Student;
-import dto.Teacher;
-import dto.User;
+import data.Student;
+import data.Teacher;
+import data.User;
 
 public class ReaderFromTxt {
     private String path;

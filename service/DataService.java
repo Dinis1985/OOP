@@ -1,6 +1,6 @@
 package service;
 
-import dto.User;
+import data.User;
 
 public interface DataService<E extends User> {
     E read();

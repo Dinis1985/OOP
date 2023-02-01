@@ -1,6 +1,6 @@
 package repository;
 
-import dto.Teacher;
+import data.Teacher;
 
 public class TeacherRepository implements UserRepository<Teacher, Integer> {
 
